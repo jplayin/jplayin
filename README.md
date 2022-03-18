@@ -2,7 +2,7 @@
 
 ### I'm Arun Babu,
 
-I'm a Technical Lead (Java). Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jplayin/)!
+I'm a Technical Architect (Java). Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jplayin/)!
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
@@ -16,7 +16,7 @@ I'm a Technical Lead (Java). Thanks for visiting and I'd love to [connect](https
 
 ### 🌱 Challenges that I’m currently challenging myself:
 <details>
-  <summary> Since the world is in the quarantine stage, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
+  <summary>I am focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
   <br>
   <ul>
     <li>Avoid over using social media</li>
